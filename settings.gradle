@@ -1,0 +1,6 @@
+rootProject.name = 'ice-chat-project'
+
+// Incluye los tres modulos del sistema distribuido
+include 'common'
+include 'server'
+include 'client'
